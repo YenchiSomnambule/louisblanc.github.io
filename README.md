@@ -94,4 +94,4 @@ Stock Investment Simulation - Michigan State University
 and real-time market simulation using StockTrak.  
 
 ## Other Projects  
-https://github.com/YenchiSomnambule/Data_Analyst_Portfolio  
+[Data Analyst Portfolio](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio)
