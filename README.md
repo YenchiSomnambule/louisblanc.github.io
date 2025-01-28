@@ -1,4 +1,4 @@
-# Business Analyst | Data Analyst | Quantitative Financial Analyst | Investment Portfolio Manager | Applied Artificial Intelligence Practitioner
+# Data Science
 
 ### Education
 B.A. in Finance at Michigan State University  
