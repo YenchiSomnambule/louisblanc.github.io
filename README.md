@@ -1,24 +1,24 @@
 # Data Analyst | Business Analyst
 
-## Education
+# Education
 Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg  
 B.A. in Information Technology at Michigan State University  
 B.A. in Finance at Michigan State University  
 
-## Certificate
+# Certificate
 IBM Data Science Professional Certificate    
 Snowflake Warehousing Certificate  
 Google Cybersecurity Certificate  
 Bloomberg Terminal Certificate  
 
-## Technical Skills  
+# Technical Skills  
 Business Analysis: Requirement gathering, stakeholder engagement, business process mapping  
 Data Analytics: Excel (VLOOKUP, Pivot Tables), SQL, data visualization (Tableau, Power BI)  
 Project Tools: JIRA, SharePoint, Microsoft Visio, project planning  
 Process Optimization: Automation, risk assessment, workflow improvement  
 
 
-## Work Experience
+# Work Experience
 
 *Quantitative Analyst*  - Grand River Corporation  
 -------------------------------------------------------------------------  
@@ -57,5 +57,38 @@ May 2017 - May 2018
 •	Optimized supplier contracts through data-driven analysis, reducing costs by 15%.  
 •	Streamlined logistics and inventory processes, enhancing operational efficiency, reducing delays, and improving overall supply chain performance metrics.  
   
-## Projects
+# Projects
 
+POWER AI - Online Shopping Assistant -  University of Winnipeg PACE
+-------------------------------------------------------------------------  
+• Spearheaded the development of Power AI, enhancing online shopping through a 
+unified platform combining comparison tools and an interactive chatbot.  
+• Implemented features such as real-time search optimization and user-friendly interfaces 
+to streamline the shopping experience.  
+• Utilized skills in NLP, API integration, database management, and machine learning.
+ETL Pipeline Development University of Winnipeg PACE  
+• Collaboratively designed and deployed three robust ETL pipelines using Apache Airflow, 
+Snowflake, and Apache Kafka.  
+• Focused on optimizing data flow and processing, ensuring effective data management 
+and analysis across platforms.  
+
+Mexico Real Estate Market Analysis -  University of Winnipeg PACE
+-------------------------------------------------------------------------  
+• Conducted a detailed analysis of the real estate market, developing pricing strategies 
+and identifying key investment opportunities.  
+• Utilized Python for data analysis and visualization, presenting findings to enhance 
+strategic decision-making in real estate investments.  
+
+California Housing Price Prediction - University of Winnipeg PACE
+-------------------------------------------------------------------------  
+• Led a project to predict housing prices using machine learning techniques, including 
+spatial autoregressions.
+• Crafted an Entity Relationship Diagram to streamline data utilization, achieving 
+enhanced model accuracy and insightful trend analysis.
+
+Stock Investment Simulation - Michigan State University
+-------------------------------------------------------------------------  
+• Managed a $1,000,000 virtual stock investment, achieving the highest profit increase 
+(16%) among peers.
+• Developed and executed investment strategies based on extensive quantitative analysis 
+and real-time market simulation using StockTrak.
