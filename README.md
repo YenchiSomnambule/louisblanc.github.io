@@ -91,4 +91,7 @@ Stock Investment Simulation - Michigan State University
 • Managed a $1,000,000 virtual stock investment, achieving the highest profit increase 
 (16%) among peers.
 • Developed and executed investment strategies based on extensive quantitative analysis 
-and real-time market simulation using StockTrak.
+and real-time market simulation using StockTrak.  
+
+## Other Projects  
+https://github.com/YenchiSomnambule/Data_Analyst_Portfolio  
