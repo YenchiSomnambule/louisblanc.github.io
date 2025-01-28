@@ -1,5 +1,7 @@
 title: Louis Blanc
-logo: image/Image_20250114140144.jpg
-#description: text below image
-#show_downloads: true
-theme: jekyll-theme-minimal
+logo: /image/Image_20250114140144.jpg  # Ensure the path is correct relative to your site's root
+#description: text below image       # Uncomment this line if you decide to use a description
+#show_downloads: true                # Uncomment to show a download button, if applicable
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
