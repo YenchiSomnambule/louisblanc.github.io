@@ -1,4 +1,5 @@
 # Data Analyst | Business Analyst
+[LinkedIn](https://www.linkedin.com/in/yenchi-wang/)
 
 ## Education
 Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg  
