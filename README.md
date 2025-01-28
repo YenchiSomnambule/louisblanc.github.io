@@ -1,24 +1,24 @@
 # Data Analyst | Business Analyst
 
-# Education
+## Education
 Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg  
 B.A. in Information Technology at Michigan State University  
 B.A. in Finance at Michigan State University  
 
-# Certificate
+## Certificate
 IBM Data Science Professional Certificate    
 Snowflake Warehousing Certificate  
 Google Cybersecurity Certificate  
 Bloomberg Terminal Certificate  
 
-# Technical Skills  
+## Technical Skills  
 Business Analysis: Requirement gathering, stakeholder engagement, business process mapping  
 Data Analytics: Excel (VLOOKUP, Pivot Tables), SQL, data visualization (Tableau, Power BI)  
 Project Tools: JIRA, SharePoint, Microsoft Visio, project planning  
 Process Optimization: Automation, risk assessment, workflow improvement  
 
 
-# Work Experience
+## Work Experience
 
 *Quantitative Analyst*  - Grand River Corporation  
 -------------------------------------------------------------------------  
@@ -57,7 +57,7 @@ May 2017 - May 2018
 •	Optimized supplier contracts through data-driven analysis, reducing costs by 15%.  
 •	Streamlined logistics and inventory processes, enhancing operational efficiency, reducing delays, and improving overall supply chain performance metrics.  
   
-# Projects
+## Projects
 
 POWER AI - Online Shopping Assistant -  University of Winnipeg PACE
 -------------------------------------------------------------------------  
