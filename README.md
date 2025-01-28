@@ -1,9 +1,9 @@
 # Data Analyst | Business Analyst
 
 ## Education
-B.A. in Finance at Michigan State University  
-B.A. in Information Technology at Michigan State University  
 Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg  
+B.A. in Information Technology at Michigan State University  
+B.A. in Finance at Michigan State University  
 
 ## Certificate
 IBM Data Science Professional Certificate    
@@ -48,12 +48,12 @@ August 2024 - October 2024
 •	Facilitated clear communication between stakeholders, reducing misinterpretation issues by 13% and improving collaboration across diverse teams and departments.  
 Supply Chain Coordinator  
   
-**Zhuimei Outdoor Sports**  
-May 2017 - May 2018  
+**Supply Chain Coordinator**  
+Zhuimei Outdoor Sports
 -------------------------------------------------------------------------  
-
+May 2017 - May 2018  
 •	Optimized supplier contracts through data-driven analysis, reducing costs by 15%.  
 •	Streamlined logistics and inventory processes, enhancing operational efficiency, reducing delays, and improving overall supply chain performance metrics.  
   
-### Projects
+## Projects
 
