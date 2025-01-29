@@ -2,8 +2,11 @@
 ![LinkedIn_Logo](image/LinkedIn_Logo_Small.png)
 [Yenchi Wang (Louis)](https://www.linkedin.com/in/yenchi-wang/)
 ## Education
-Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg  
+![UoW_logo](image/UoW_logo.png)
+Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg 
+![msu_logo](image/msu_logo.png)
 B.A. in Information Technology at Michigan State University  
+![msu_logo](image/msu_logo.png)
 B.A. in Finance at Michigan State University  
 
 ## Certificate
