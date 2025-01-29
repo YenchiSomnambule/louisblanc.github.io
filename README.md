@@ -8,7 +8,7 @@ Postgraduate Diploma in Artificial Intelligence at the University of Winnipeg
 B.A. in Information Technology at Michigan State University  
 ![msu_logo](image/msu_logo.png)
 B.A. in Finance at Michigan State University  
-
+ 
 ## Certificate
 IBM Data Science Professional Certificate    
 Snowflake Warehousing Certificate  
