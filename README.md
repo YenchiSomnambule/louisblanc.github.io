@@ -1,6 +1,6 @@
 # Data Analyst | Business Analyst
-![LinkedIn_Logo](image/LinkedIn_Logo_Small.png)
-[Yenchi Wang (Louis)](https://www.linkedin.com/in/yenchi-wang/)
+[![LinkedIn Logo](image/LinkedIn_LB.png "LinkedIn")](https://www.linkedin.com/in/yenchi-wang)
+
 ## Education
 ![UoW_logo](image/UoW_logo.png)
   Post-Degree in Artificial Intelligence at the University of Winnipeg  
