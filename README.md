@@ -10,10 +10,14 @@ B.A. in Information Technology at Michigan State University
 B.A. in Finance at Michigan State University  
  
 ## Certificate
-IBM Data Science Professional Certificate    
-Snowflake Warehousing Certificate  
+![ibm_logo](image/ibm_logo.png)
+IBM Data Science Professional Certificate  
+![snowflake_logo](image/snowflake_logo.png)
+Snowflake Warehousing Certificate   
+![google_logo](image/google_logo.png)
 Google Cybersecurity Certificate  
-Bloomberg Terminal Certificate  
+![bloomberg_logo](image/bloomberg_logo.png)
+Bloomberg Terminal Certificate   
 
 ## Technical Skills  
 Business Analysis: Requirement gathering, stakeholder engagement, business process mapping  
