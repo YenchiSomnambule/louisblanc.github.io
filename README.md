@@ -28,8 +28,8 @@ Process Optimization: Automation, risk assessment, workflow improvement
 
 ## Work Experience
 ![Grand_River_logo](image/GR.png)  
-*Quantitative Analyst*  - Grand River Corporation  
--------------------------------------------------------------------------  
+### **Quantitative Analyst  - Grand River Corporation**  
+
 ![official_profile](image/Official_Profile_2.jpg)  
 •	Developed financial models to optimize investment strategies and informed decision-making processes by analyzing market data and trends.  
 •	Automated trading workflows using Python, significantly increasing efficiency, reducing manual tasks, and enhancing accuracy in data processing workflows.  
@@ -39,17 +39,20 @@ Process Optimization: Automation, risk assessment, workflow improvement
 ![thinkorswim](image/thinkorswim2.png)  
 ![dashboard](image/dashboard2.png)  
 
-
+-------------------------------------------------------------------------  
 
 ![outlier](image/outlier.png)  
-*AI Coding Quality Assurance Specialist*  - Outlier  
--------------------------------------------------------------------------  
+### **AI Coding Quality Assurance Specialist  - Outlier**  
+  
 
 November 2024 - Present  
 •	Conducted data-driven analysis and created automated testing frameworks to enhance operational reliability.  
 •	Implemented quality assurance protocols, improving system accuracy by 23%.  
 •	Monitored system performance metrics to identify patterns and insights, contributing to proactive issue resolution and continuous improvement.  
 •	Collaborated with cross-functional teams to troubleshoot AI model performance issues and implement corrective actions.  
+
+-------------------------------------------------------------------------  
+
   
 *Sales Representative*  - Augment Jobs  
 -------------------------------------------------------------------------  
