@@ -40,7 +40,8 @@ Process Optimization: Automation, risk assessment, workflow improvement
 ![dashboard](image/dashboard2.png)  
 
 
-  
+
+![outlier](image/outlier.png)  
 *AI Coding Quality Assurance Specialist*  - Outlier  
 -------------------------------------------------------------------------  
 
