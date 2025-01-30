@@ -71,7 +71,7 @@ August 2024 - October 2024
 •	Facilitated clear communication between stakeholders, reducing misinterpretation issues by 13% and improving collaboration across diverse teams and departments.  
 Supply Chain Coordinator  
 
-![Grupo_Noa](image/zhuimei.png)  
+![Grupo_Noa](image/zhuimei2.png)  
 *Supply Chain Coordinator* -  Zhuimei Outdoor Sports
 -------------------------------------------------------------------------  
 May 2017 - May 2018  
