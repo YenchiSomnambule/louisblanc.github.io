@@ -37,6 +37,7 @@ Process Optimization: Automation, risk assessment, workflow improvement
 •	Conducted in-depth market analysis to identify trends, enabling data-driven investment decisions and optimizing long-term financial strategy development.  
 •	Designed and implemented algorithmic trading strategies, significantly enhancing portfolio performance by 17.25% and improving risk-adjusted returns.  
 ![thinkorswim](image/thinkorswim2.png)  
+![dashboard](image/dashboard2.png)  
 
 
   
