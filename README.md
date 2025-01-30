@@ -53,8 +53,9 @@ November 2024 - Present
 
 -------------------------------------------------------------------------  
 
-  
-*Sales Representative*  - Augment Jobs  
+
+![Augment_Jobs](image/Augment_Jobs.png)  
+### **Sales Representative  - Augment Jobs**  
 -------------------------------------------------------------------------  
 
 January 2025 - Present  
