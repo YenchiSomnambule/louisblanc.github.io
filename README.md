@@ -62,13 +62,16 @@ January 2025 - Present
 •	Develop and implement strategic sales plans to expand the customer base and ensure a strong presence in the industry, consistently meeting or exceeding targets.  
 •	Cultivate strong relationships with new and existing clients through excellent communication and tailored proposals, enhancing customer satisfaction and retention.  
 
+
+![Grupo_Noa](image/grupo_noa.png)  
 *Medical Interpreter*  - Grupo Noa International  
 -------------------------------------------------------------------------  
 
 August 2024 - October 2024  
 •	Facilitated clear communication between stakeholders, reducing misinterpretation issues by 13% and improving collaboration across diverse teams and departments.  
 Supply Chain Coordinator  
-  
+
+![Grupo_Noa](image/zhuimei.png)  
 *Supply Chain Coordinator* -  Zhuimei Outdoor Sports
 -------------------------------------------------------------------------  
 May 2017 - May 2018  
