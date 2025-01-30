@@ -66,7 +66,7 @@ May 2017 - May 2018
 •	Streamlined logistics and inventory processes, enhancing operational efficiency, reducing delays, and improving overall supply chain performance metrics.  
   
 ## Projects
-
+![POWER_AI](image/POWER_AI.png)  
 POWER AI - Online Shopping Assistant -  University of Winnipeg PACE
 -------------------------------------------------------------------------  
 • Spearheaded the development of Power AI, enhancing online shopping through a 
