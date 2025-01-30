@@ -27,14 +27,18 @@ Process Optimization: Automation, risk assessment, workflow improvement
 
 
 ## Work Experience
-
+![Grand_River_logo](image/GR.png)  
 *Quantitative Analyst*  - Grand River Corporation  
 -------------------------------------------------------------------------  
+![official_profile](image/Official_Profile_2.jpg)  
 •	Developed financial models to optimize investment strategies and informed decision-making processes by analyzing market data and trends.  
 •	Automated trading workflows using Python, significantly increasing efficiency, reducing manual tasks, and enhancing accuracy in data processing workflows.  
 •	Created actionable dashboards in Tableau and Power BI to support leadership strategy discussions and drive informed decision-making through visual insights.  
 •	Conducted in-depth market analysis to identify trends, enabling data-driven investment decisions and optimizing long-term financial strategy development.  
 •	Designed and implemented algorithmic trading strategies, significantly enhancing portfolio performance by 17.25% and improving risk-adjusted returns.  
+![thinkorswim](image/thinkorswim2.png)  
+
+
   
 *AI Coding Quality Assurance Specialist*  - Outlier  
 -------------------------------------------------------------------------  
