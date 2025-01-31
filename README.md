@@ -93,6 +93,10 @@ Snowflake, and Apache Kafka.
 • Focused on optimizing data flow and processing, ensuring effective data management 
 and analysis across platforms.  
 
+![POWER_AI_Demo1](image/POWER_AI_D1.png)  
+![POWER_AI_Demo2](image/POWER_AI_D2.png)  
+
+
 Mexico Real Estate Market Analysis -  University of Winnipeg PACE
 -------------------------------------------------------------------------  
 • Conducted a detailed analysis of the real estate market, developing pricing strategies 
