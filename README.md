@@ -1,4 +1,4 @@
-# This Website is under construction :)
+# This Website is under building process :)
 # Data Analyst | Business Analyst
 [![LinkedIn Logo](image/LinkedIn_LB.png "LinkedIn")](https://www.linkedin.com/in/yenchi-wang)
 
