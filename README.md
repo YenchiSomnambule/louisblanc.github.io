@@ -105,6 +105,11 @@ and identifying key investment opportunities.
 • Utilized Python for data analysis and visualization, presenting findings to enhance 
 strategic decision-making in real estate investments.  
 
+![mexico_real_estate01](image/mexico_real_estate01.png)  
+![mexico_real_estate01](image/mexico_real_estate03.png)  
+
+
+
 California Housing Price Prediction - University of Winnipeg PACE
 -------------------------------------------------------------------------  
 • Led a project to predict housing prices using machine learning techniques, including 
