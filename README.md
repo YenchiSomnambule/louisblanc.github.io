@@ -127,6 +127,7 @@ Stock Investment Simulation - Michigan State University
 (16%) among peers.
 • Developed and executed investment strategies based on extensive quantitative analysis 
 and real-time market simulation using StockTrak.  
+![stock_simulation](image/stock_simulation.png)  
 
 ## Other Projects  
 [Data Analyst Portfolio](https://github.com/YenchiSomnambule/Data_Analyst_Portfolio)
