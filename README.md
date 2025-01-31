@@ -117,6 +117,10 @@ spatial autoregressions.
 • Crafted an Entity Relationship Diagram to streamline data utilization, achieving 
 enhanced model accuracy and insightful trend analysis.
 
+![california_real_estate01](image/california_real_estate01.png)  
+
+
+
 Stock Investment Simulation - Michigan State University
 -------------------------------------------------------------------------  
 • Managed a $1,000,000 virtual stock investment, achieving the highest profit increase 
