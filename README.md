@@ -67,20 +67,20 @@ Furthermore, I collaborate with cross-functional teams to troubleshoot AI model 
 ### **Sales Representative  - Augment Jobs**  
 -------------------------------------------------------------------------  
 
-January 2025 - Present  
-•	Develop and implement strategic sales plans to expand the customer base and ensure a strong presence in the industry, consistently meeting or exceeding targets.  
-•	Cultivate strong relationships with new and existing clients through excellent communication and tailored proposals, enhancing customer satisfaction and retention.  
-
+January 2025 - February 2025  
+  
+In January 2025, I joined Augment Jobs as a Sales Representative, where I was tasked with developing and implementing strategic sales plans. My primary goals were to expand the customer base and ensure a strong presence within the industry, consistently meeting or exceeding our sales targets. During my tenure, I focused on cultivating strong relationships with both new and existing clients. By leveraging excellent communication skills and crafting tailored proposals, I was able to enhance customer satisfaction and improve retention rates, contributing to the company’s sustained growth and visibility in a competitive market.
+  
 
 ![Grupo_Noa](image/grupo_noa.png)  
 *Medical Interpreter*  - Grupo Noa International  
 -------------------------------------------------------------------------  
-
+  
 August 2024 - October 2024  
-•	Facilitated clear communication between stakeholders, reducing misinterpretation issues by 13% and improving collaboration across diverse teams and departments.  
-Supply Chain Coordinator  
 
-![Grupo_Noa](image/zhuimei2.png)  
+From August 2024 to October 2024, I worked as a Medical Interpreter for Grupo Noa International. In this role, I facilitated clear and accurate communication between stakeholders, significantly reducing misinterpretation issues by 13%. My efforts improved collaboration across diverse teams and departments, ensuring that all parties could work effectively together despite language barriers. This role required a high level of linguistic skill and cultural sensitivity, which were critical in enhancing the overall communication flow within the organization.
+  
+![zhuimei](image/zhuimei2.png)  
 *Supply Chain Coordinator* -  Zhuimei Outdoor Sports
 -------------------------------------------------------------------------  
 May 2017 - May 2018  
