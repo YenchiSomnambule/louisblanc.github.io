@@ -20,14 +20,14 @@ Google Cybersecurity Certificate
 ![bloomberg_logo](image/bloomberg_logo.png)
 Bloomberg Terminal Certificate   
 
-## Technical Skills  
-Programming & Scripting: Python (Pandas, NumPy, Scikit-Learn), Pine Script, SQL
-Business Analysis: Requirement gathering, stakeholder engagement, business process mapping  
-Financial Analysis & Trading Tools: Bloomberg Terminal, Schwab Thinkorswim, TradingView
-Cloud & Big Data Technologies: Google Cloud Platform, Snowflake, Apache Hadoop, Apache Spark
-Data Analytics: Excel (VLOOKUP, Pivot Tables), SQL, data visualization (Tableau, Power BI)  
-Data Engineering & Automation: Apache Airflow, Apache Kafka, ETL Pipelines
-Project Management Tools: JIRA, SharePoint, Microsoft Visio, project planning, Slack, AirTable, Fireflies  
+## Core Competencies 
+**Programming:** Python (Pandas, NumPy, Scikit-Learn), Pine Script, SQL
+**Financial Analysis:** Bloomberg Terminal, Schwab Thinkorswim, TradingView
+**Cloud & Big Data**: Google Cloud Platform, Snowflake, Apache Hadoop, Apache Spark
+**Data Analytics:** Excel (VLOOKUP, Pivot Tables), SQL, data visualization (Tableau, Power BI)  
+**Business Analysis:** Requirement gathering, stakeholder engagement, business process mapping  
+**Data Engineering & Automation**: Apache Airflow, Apache Kafka, ETL Pipelines
+**Project Management**: JIRA, SharePoint, Microsoft Visio, project planning, Slack, AirTable, Fireflies  
 
 ## Work Experience
 ![Grand_River_logo](image/GR.png)  
