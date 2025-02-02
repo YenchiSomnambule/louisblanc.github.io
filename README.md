@@ -108,21 +108,15 @@ During my time at the University of Winnipeg PACE, I conducted a detailed analys
 
 California Housing Price Prediction - University of Winnipeg PACE
 -------------------------------------------------------------------------  
-• Led a project to predict housing prices using machine learning techniques, including 
-spatial autoregressions.
-• Crafted an Entity Relationship Diagram to streamline data utilization, achieving 
-enhanced model accuracy and insightful trend analysis.
-
+At the University of Winnipeg PACE, I led a project focused on predicting housing prices in California using advanced machine learning techniques, including spatial autoregressions. To improve the efficiency and effectiveness of our data utilization, I crafted an Entity Relationship Diagram. This strategic approach not only streamlined our processes but also significantly enhanced the accuracy of our predictive models. Additionally, it facilitated more insightful trend analysis, allowing us to deliver valuable predictions that could assist stakeholders in making informed real estate investment decisions.  
+  
 ![california_real_estate01](image/california_real_estate01.png)  
 
 
 
 Stock Investment Simulation - Michigan State University
 -------------------------------------------------------------------------  
-• Managed a $1,000,000 virtual stock investment, achieving the highest profit increase 
-(16%) among peers.
-• Developed and executed investment strategies based on extensive quantitative analysis 
-and real-time market simulation using StockTrak.  
+During my studies at Michigan State University, I managed a $1,000,000 virtual stock investment as part of a simulation project, achieving the highest profit increase of 16% among my peers. I developed and executed sophisticated investment strategies based on extensive quantitative analysis. Utilizing StockTrak, a real-time market simulation tool, I was able to effectively apply theoretical knowledge in a simulated environment, which allowed me to refine my decision-making skills and understanding of market dynamics, contributing significantly to my educational and practical experience in finance.   
 ![stock_simulation](image/stock_simulation.png)  
 
 ## Other Projects  
