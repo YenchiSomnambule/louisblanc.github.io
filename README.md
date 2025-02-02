@@ -34,14 +34,19 @@ Bloomberg Terminal Certificate
 ### **Quantitative Analyst  - Grand River Corporation**  
 
 ![official_profile](image/Official_Profile_2.jpg)  
-•	Developed financial models to optimize investment strategies and informed decision-making processes by analyzing market data and trends.  
-•	Automated trading workflows using Python, significantly increasing efficiency, reducing manual tasks, and enhancing accuracy in data processing workflows.  
-•	Created actionable dashboards in Tableau and Power BI to support leadership strategy discussions and drive informed decision-making through visual insights.  
-•	Conducted in-depth market analysis to identify trends, enabling data-driven investment decisions and optimizing long-term financial strategy development.  
-•	Designed and implemented algorithmic trading strategies, significantly enhancing portfolio performance by 17.25% and improving risk-adjusted returns.  
+  
+As a Quantitative Analyst at Grand River Corporation, I specialized in developing sophisticated financial models and optimizing investment strategies through comprehensive data analysis. My expertise in Python facilitated significant automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
+  
 ![thinkorswim](image/thinkorswim2.png)  
+  
+Utilizing advanced trading platforms such as TradingView and thinkorswim, I engaged in financial derivatives trading which played a pivotal role in advancing our clients' portfolios. These platforms enabled precise analysis and execution of complex trading strategies, integrating seamlessly with our existing systems to bolster our analytical capabilities.
+  
 ![dashboard](image/dashboard2.png)  
-
+  
+I also created and maintained actionable dashboards using Tableau and Power BI, providing leadership with clear, visual insights into market data and trends. This was crucial for facilitating strategic discussions and enabling quick, informed decision-making. My rigorous market analysis helped unearth underlying trends, informing investment decisions that optimized our long-term financial strategy.
+  
+Furthermore, I was responsible for the design and implementation of algorithmic trading strategies that directly contributed to a significant enhancement in portfolio performance, achieving a 17.25% increase in returns and improving risk-adjusted metrics. These strategies, coupled with my role in process automation, were integral to maintaining a competitive advantage in a fast-paced financial environment.
+  
 -------------------------------------------------------------------------  
 
 ![outlier](image/outlier.png)  
