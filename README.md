@@ -32,6 +32,7 @@ Bloomberg Terminal Certificate
 ## Work Experience
 ![Grand_River_logo](image/GR.png)  
 ### **Quantitative Analyst  - Grand River Corporation**  
+July 2020 - January 2024    
 
 ![official_profile](image/Official_Profile_2.jpg)  
   
@@ -51,14 +52,14 @@ Furthermore, I was responsible for the design and implementation of algorithmic 
 
 ![outlier](image/outlier.png)  
 ### **AI Coding Quality Assurance Specialist  - Outlier**  
-  
-
 November 2024 - Present  
-•	Conducted data-driven analysis and created automated testing frameworks to enhance operational reliability.  
-•	Implemented quality assurance protocols, improving system accuracy by 23%.  
-•	Monitored system performance metrics to identify patterns and insights, contributing to proactive issue resolution and continuous improvement.  
-•	Collaborated with cross-functional teams to troubleshoot AI model performance issues and implement corrective actions.  
-
+  
+Since November 2024, I have been working as an AI Coding Quality Assurance Specialist at Outlier. My role involves conducting data-driven analyses and developing automated testing frameworks to enhance the operational reliability of the client's systems. This approach has successfully improved system accuracy by 23%.
+  
+In addition to these responsibilities, I actively monitor system performance metrics to identify patterns and gather insights. This meticulous tracking aids in proactive issue resolution and facilitates continuous improvement across our projects.
+  
+Furthermore, I collaborate with cross-functional teams to troubleshoot AI model performance issues. Together, we devise and implement corrective actions, ensuring that the AI systems from our clinets operate efficiently and effectively, aligning with the company's high standards of quality assurance.
+  
 -------------------------------------------------------------------------  
 
 
