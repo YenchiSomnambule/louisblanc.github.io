@@ -39,7 +39,7 @@ As a Quantitative Analyst at Grand River Corporation, I specialized in developin
   
 ![thinkorswim](image/thinkorswim2.png)  
   
-Utilizing advanced trading platforms such as TradingView and thinkorswim, I engaged in financial derivatives trading which played a pivotal role in advancing our clients' portfolios. These platforms enabled precise analysis and execution of complex trading strategies, integrating seamlessly with our existing systems to bolster our analytical capabilities.
+Utilizing advanced trading platforms such as TradingView and Thinkorswim, I engaged in financial derivatives trading which played a pivotal role in advancing our clients' portfolios. These platforms enabled precise analysis and execution of complex trading strategies, integrating seamlessly with our existing systems to bolster our analytical capabilities.
   
 ![dashboard](image/dashboard2.png)  
   
