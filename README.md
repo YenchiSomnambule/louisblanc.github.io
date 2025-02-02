@@ -91,16 +91,7 @@ May 2017 - May 2018
 ![POWER_AI](image/POWER_AI.png)  
 POWER AI - Online Shopping Assistant -  University of Winnipeg PACE
 -------------------------------------------------------------------------  
-• Spearheaded the development of Power AI, enhancing online shopping through a 
-unified platform combining comparison tools and an interactive chatbot.  
-• Implemented features such as real-time search optimization and user-friendly interfaces 
-to streamline the shopping experience.  
-• Utilized skills in NLP, API integration, database management, and machine learning.
-ETL Pipeline Development University of Winnipeg PACE  
-• Collaboratively designed and deployed three robust ETL pipelines using Apache Airflow, 
-Snowflake, and Apache Kafka.  
-• Focused on optimizing data flow and processing, ensuring effective data management 
-and analysis across platforms.  
+I spearheaded the development of POWER AI, an innovative online shopping assistant, during my time at the University of Winnipeg PACE. This project focused on enhancing the online shopping experience by integrating a unified platform that combines comparison tools with an interactive chatbot. Key implementations included real-time search optimization and a user-friendly interface, which significantly streamlined the shopping process. My role also involved leveraging skills in natural language processing (NLP), API integration, database management, and machine learning to ensure the assistant's effectiveness and efficiency.  
 
 ![POWER_AI_Demo1](image/POWER_AI_D1.png)  
 ![POWER_AI_Demo2](image/POWER_AI_D2.png)  
@@ -108,10 +99,7 @@ and analysis across platforms.
 
 Mexico Real Estate Market Analysis -  University of Winnipeg PACE
 -------------------------------------------------------------------------  
-• Conducted a detailed analysis of the real estate market, developing pricing strategies 
-and identifying key investment opportunities.  
-• Utilized Python for data analysis and visualization, presenting findings to enhance 
-strategic decision-making in real estate investments.  
+During my time at the University of Winnipeg PACE, I conducted a detailed analysis of the Mexico real estate market. This project involved developing pricing strategies and identifying key investment opportunities, which were crucial for stakeholders interested in the region. Utilizing Python, I performed advanced data analysis and created visualizations to clearly present our findings. These efforts were aimed at enhancing strategic decision-making for real estate investments, providing actionable insights that could guide investment choices and foster growth within the market.  
 
 ![mexico_real_estate01](image/mexico_real_estate01.png)  
 ![mexico_real_estate01](image/mexico_real_estate03.png)  
