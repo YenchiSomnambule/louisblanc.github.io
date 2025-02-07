@@ -53,9 +53,9 @@ Furthermore, I was responsible for the design and implementation of algorithmic 
 ### **AI Coding Quality Assurance Specialist  - Outlier**  
 November 2024 - Present  
   
-Since November 2024, I have been working as an AI Coding Quality Assurance Specialist at Outlier. My role involves conducting data-driven analyses and developing automated testing frameworks to enhance the operational reliability of the client's systems. This approach has successfully improved system accuracy by 23%.
+Since November 2024, I have been working as an AI Coding Quality Assurance Specialist at Outlier. My role involves conducting data-driven analyses and developing automated testing frameworks to enhance the operational reliability of the client's systems. This approach has successfully improved clients' system accuracy by 23%.
   
-In addition to these responsibilities, I actively monitor system performance metrics to identify patterns and gather insights. This meticulous tracking aids in proactive issue resolution and facilitates continuous improvement across our projects.
+In addition to these responsibilities, I actively monitor system performance metrics to identify patterns and gather insights. This tracking aids in proactive issue resolution and facilitates continuous improvement across our projects.
   
 Furthermore, I collaborate with cross-functional teams to troubleshoot AI model performance issues. Together, we devise and implement corrective actions, ensuring that the AI systems from our clinets operate efficiently and effectively, aligning with the company's high standards of quality assurance.
   
