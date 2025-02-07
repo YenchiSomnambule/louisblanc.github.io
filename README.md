@@ -43,7 +43,7 @@ Utilizing advanced trading platforms such as TradingView and Thinkorswim, I enga
   
 ![dashboard](image/dashboard2.png)  
   
-I also created and maintained actionable dashboards using Tableau and Power BI, providing leadership with clear, visual insights into market data and trends. This was crucial for facilitating strategic discussions and enabling quick, informed decision-making. My rigorous market analysis helped unearth underlying trends, informing investment decisions that optimized our long-term financial strategy.
+I also created and maintained actionable dashboards using Tableau and Power BI, providing leadership with clear, visual insights into market data and trends. This was crucial for facilitating strategic discussions and enabling quick, informed decision-making. My market analysis helped unearth underlying trends, informing investment decisions that optimized our long-term financial strategy.
   
 Furthermore, I was responsible for the design and implementation of algorithmic trading strategies that directly contributed to a significant enhancement in portfolio performance, achieving a 17.25% increase in returns and improving risk-adjusted metrics. These strategies, coupled with my role in process automation, were integral to maintaining a competitive advantage in a fast-paced financial environment.
   
