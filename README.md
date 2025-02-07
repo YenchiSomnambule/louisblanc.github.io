@@ -83,8 +83,7 @@ From August 2024 to October 2024, I worked as a Medical Interpreter for Grupo No
 *Supply Chain Coordinator* -  Zhuimei Outdoor Sports
 -------------------------------------------------------------------------  
 May 2017 - May 2018  
-•	Optimized supplier contracts through data-driven analysis, reducing costs by 15%.  
-•	Streamlined logistics and inventory processes, enhancing operational efficiency, reducing delays, and improving overall supply chain performance metrics.  
+I optimized supplier contracts through a data-driven analysis approach, which resulted in a 15% reduction in costs. Additionally, I streamlined logistics and inventory processes to enhance operational efficiency. This not only reduced delays but also improved overall supply chain performance metrics, leading to a more effective and efficient operation.  
   
 ## Projects
 ![POWER_AI](image/POWER_AI.png)  
