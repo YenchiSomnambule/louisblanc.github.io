@@ -35,11 +35,11 @@ July 2020 - January 2024
 
 ![official_profile](image/Official_Profile_2.jpg)  
   
-As a Quantitative Analyst at Grand River Corporation, I specialized in developing sophisticated financial models and optimizing investment strategies through comprehensive data analysis. My expertise in Python facilitated significant automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
+As a Quantitative Analyst at Grand River Corporation, I specialized in developing financial models, and optimizing investment strategies through comprehensive data analysis such as time series. My expertise in Python facilitated automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
   
 ![thinkorswim](image/thinkorswim2.png)  
   
-Utilizing advanced trading platforms such as TradingView and Thinkorswim, I engaged in financial derivatives trading which played a pivotal role in advancing our clients' portfolios. These platforms enabled precise analysis and execution of complex trading strategies, integrating seamlessly with our existing systems to bolster our analytical capabilities.
+Utilizing advanced trading platforms such as TradingView and Thinkorswim, I engaged in financial derivatives trading which played a pivotal role in advancing our clients' portfolios. These platforms enabled precise analysis and execution of trading strategies, integrating seamlessly with our existing systems to bolster our analytical capabilities.
   
 ![dashboard](image/dashboard2.png)  
   
