@@ -66,7 +66,7 @@ Furthermore, I collaborate with cross-functional teams to troubleshoot AI model 
 ### **Sales Representative  - Augment Jobs**  
 -------------------------------------------------------------------------  
 
-January 2025 - February 2025  
+January 2025 - Present  
   
 In January 2025, I joined Augment Jobs as a Sales Representative, where I was tasked with developing and implementing strategic sales plans. My primary goals were to expand the customer base and ensure a strong presence within the industry, consistently meeting or exceeding our sales targets. During my tenure, I focused on cultivating strong relationships with both new and existing clients. By leveraging excellent communication skills and crafting tailored proposals, I was able to enhance customer satisfaction and improve retention rates, contributing to the company’s sustained growth and visibility in a competitive market.
   
