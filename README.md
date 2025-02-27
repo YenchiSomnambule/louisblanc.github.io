@@ -30,12 +30,12 @@ Bloomberg Terminal Certificate
 
 ## Work Experience
 ![Grand_River_logo](image/GR.png)  
-### **Quantitative Analyst  - Grand River Corporation**  
-July 2020 - January 2024    
+### **Business Analyst  - Grand River Corporation**  
+July 2020 - Present   
 
 ![official_profile](image/Official_Profile_2.jpg)  
   
-As a Quantitative Analyst at Grand River Corporation, I specialized in developing financial models, and optimizing investment strategies through comprehensive data analysis such as time series. My expertise in Python facilitated automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
+As a business Analyst at Grand River Corporation, I specialized in developing financial models, and optimizing investment strategies through comprehensive data analysis such as time series. My expertise in Python facilitated automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
   
 ![thinkorswim](image/thinkorswim2.png)  
   
@@ -50,10 +50,10 @@ Furthermore, I was responsible for the design and implementation of algorithmic 
 -------------------------------------------------------------------------  
 
 ![outlier](image/outlier.png)  
-### **AI Coding Quality Assurance Specialist  - Outlier**  
+### **Data Analyst  - Outlier**  
 November 2024 - Present  
   
-Since November 2024, I have been working as an AI Coding Quality Assurance Specialist at Outlier. My role involves conducting data-driven analyses and developing automated testing frameworks to enhance the operational reliability of the client's systems. This approach has successfully improved clients' system accuracy by 23%.
+Since November 2024, I have been working as an Data Analyst at Outlier. My role involves conducting data-driven analyses and developing automated testing frameworks to enhance the operational reliability of the client's systems. This approach has successfully improved clients' system accuracy by 23%.
   
 In addition to these responsibilities, I actively monitor system performance metrics to identify patterns and gather insights. This tracking aids in proactive issue resolution and facilitates continuous improvement across our projects.
   
@@ -66,7 +66,7 @@ Furthermore, I collaborate with cross-functional teams to troubleshoot AI model 
 ### **Sales Representative  - Augment Jobs**  
 -------------------------------------------------------------------------  
 
-January 2025 - Present  
+January 2025 - Feburary 2025  
   
 In January 2025, I joined Augment Jobs as a Sales Representative, where I was tasked with developing and implementing strategic sales plans. My primary goals were to expand the customer base and ensure a strong presence within the industry, consistently meeting or exceeding our sales targets. During my tenure, I focused on cultivating strong relationships with both new and existing clients. By leveraging excellent communication skills and crafting tailored proposals, I was able to enhance customer satisfaction and improve retention rates, contributing to the company’s sustained growth and visibility in a competitive market.
   
