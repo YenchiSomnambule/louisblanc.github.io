@@ -1,4 +1,4 @@
-# Data Analyst | Business Analyst
+# Digital Solutions Lead | Business Analyst
 
 ## Education
 ![UoW_logo](image/UoW_logo.png)
