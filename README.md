@@ -1,5 +1,4 @@
 # Data Analyst | Business Analyst
-[![LinkedIn Logo](image/LinkedIn_LB.png "LinkedIn")](https://www.linkedin.com/in/yenchi-wang)
 
 ## Education
 ![UoW_logo](image/UoW_logo.png)
