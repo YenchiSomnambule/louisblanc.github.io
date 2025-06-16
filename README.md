@@ -29,15 +29,13 @@ Bloomberg Terminal Certificate
 
 ## Work Experience
 
-![Grand_River_logo](image/GR.png)  
+![Grand_River_logo](image/freedom_concepts_inc__logo.jpg)  
 ### **Digital Solution Lead  - Freedom Concepts Inc.**  
 May 2025 - Present   
 
 ![Grand_River_logo](image/GR.png)  
 ### **Business Intelligence Analyst  - Grand River Corporation**  
 July 2020 - Present   
-
-![official_profile](image/Official_Profile_2.jpg)  
   
 As a business Analyst at Grand River Corporation, I specialized in developing financial models, and optimizing investment strategies through comprehensive data analysis such as time series. My expertise in Python facilitated automation of trading workflows, enhancing operational efficiency, reducing manual tasks, and increasing the accuracy of data processing. This automation not only streamlined operations but also supported the scalability of trading activities.
   
