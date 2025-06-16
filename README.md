@@ -1,5 +1,4 @@
-# Digital Solutions Lead &
-# Business Intelligence Analyst
+# Digital Solutions Lead & Business Intelligence Analyst
 
 ## Education
 ![UoW_logo](image/UoW_logo.png)
