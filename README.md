@@ -28,8 +28,13 @@ Bloomberg Terminal Certificate
 **Project Management**: JIRA, SharePoint, Microsoft Visio, project planning, Slack, AirTable, Fireflies  
 
 ## Work Experience
+
 ![Grand_River_logo](image/GR.png)  
-### **Business Analyst  - Grand River Corporation**  
+### **Digital Solution Lead  - Freedom Concepts Inc.**  
+May 2025 - Present   
+
+![Grand_River_logo](image/GR.png)  
+### **Business Intelligence Analyst  - Grand River Corporation**  
 July 2020 - Present   
 
 ![official_profile](image/Official_Profile_2.jpg)  
