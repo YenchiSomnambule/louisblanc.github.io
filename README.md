@@ -33,6 +33,10 @@ Bloomberg Terminal Certificate
 ### **Digital Solution Lead  - Freedom Concepts Inc.**  
 May 2025 - Present   
 
+As a Digital Solutions Lead at Freedom Concepts Inc., I am responsible for overseeing the design, implementation, and optimization of digital systems across the organization. My work focuses on enhancing operational efficiency through the development of CRM, ERP, and cloud-based solutions. I lead the automation of business processes using Microsoft Power Automate, where I successfully reduced daily Dataverse request volumes by over 80,000 through strategic logic consolidation and internal filtering, ensuring no data loss. I also design and maintain custom dashboards and system views within Microsoft Dynamics 365, enabling informed decision-making across departments. In addition, I troubleshoot performance issues related to SharePoint and CRM systems, provide user support, and ensure minimal disruption during peak business hours. Collaborating closely with department heads, I gather business requirements, deliver training, and support user adoption of digital tools. My role bridges IT and business operations to ensure that our digital strategies align with organizational goals and deliver measurable results.
+
+
+
 ![Grand_River_logo](image/GR.png)  
 ### **Business Intelligence Analyst  - Grand River Corporation**  
 July 2020 - Present   
